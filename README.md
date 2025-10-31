@@ -1,7 +1,7 @@
 ### ☕ Coffee Menu App
 
 # A simple Full-Stack Coffee Menu application built with FastAPI, PostgreSQL, and Streamlit.
-You can view, add, edit, and delete coffee items — all from an easy visual interface.
+User can view, add, edit, and delete coffee items — all from an easy visual interface.
 
 ## 🧰 Tech Stack 
 Layer	Technology
