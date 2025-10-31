@@ -4,10 +4,10 @@
 User can view, add, edit, and delete coffee items — all from an easy visual interface.
 
 # 🌸 Preview
-<img width="500" height="250" alt="1b" src="https://github.com/user-attachments/assets/bdb649a8-5ebd-4be3-a6d7-8a7c4694b2ed" />
-<img width="500" height="250" alt="1a" src="https://github.com/user-attachments/assets/c9b2b17c-57f9-4d9f-b1ef-65e536a04439" />
-<img width="500" height="250" alt="1c" src="https://github.com/user-attachments/assets/271bcc73-7e2b-4e78-8f23-d6c42638f1eb" />
-<img width="500" height="250" alt="1d" src="https://github.com/user-attachments/assets/0b94ea2f-8fac-4bf4-a8ed-bb764b6f1e81" />
+<img width="350" height="150" alt="1b" src="https://github.com/user-attachments/assets/bdb649a8-5ebd-4be3-a6d7-8a7c4694b2ed" />
+<img width="350" height="150" alt="1a" src="https://github.com/user-attachments/assets/c9b2b17c-57f9-4d9f-b1ef-65e536a04439" />
+<img width="350" height="150" alt="1c" src="https://github.com/user-attachments/assets/271bcc73-7e2b-4e78-8f23-d6c42638f1eb" />
+<img width="350" height="150" alt="1d" src="https://github.com/user-attachments/assets/0b94ea2f-8fac-4bf4-a8ed-bb764b6f1e81" />
 
 ## 🧰 Tech Stack 
 Layer	Technology
