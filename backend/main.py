@@ -45,3 +45,5 @@ def delete_coffee(coffee_id: int, db: Session = Depends(get_db)):
     if not success:
         raise HTTPException(status_code=404, detail="Coffee not found")
     return {"message": "Deleted successfully"}
+
+# uvicorn backend.main:app --reload
